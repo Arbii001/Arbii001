@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/Arbii001">
-    <img src="https://ithub-readme-streak-stats.herokuapp.com/?user=Arbii001&theme=radical&border=7F3FBF&background=0D1117" alt="Arbi's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbii001&theme=radical&border=7F3FBF&background=0D1117" alt="Arbi's GitHub streak"/>
   </a>
 </p>
 
@@ -90,5 +90,3 @@
   <p align="center" href="https://github.com/Arbii001"><img alt="Arbi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Arbii001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </p>
-
-g
