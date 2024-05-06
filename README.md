@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack Js Dev from <b>Tunisia</b> 」
+    「 I am a Software Engineer from <b>Tunisia</b> 」
     <br>
     <br>
   </samp>
