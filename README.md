@@ -36,7 +36,7 @@
  # About me
  
 <p>
-As a software engineer specializing in web development, I deeply engage with both backend and frontend technologies. My expertise lies primarily in JavaScript, alongside proficiency in various programming languages. I enjoy exploring the ever-changing world of software development, where I constantly experiment and explore innovative solutions, pushing the boundaries of what's achievable.
+As a dedicated software engineer specializing in backend web development, my passion lies in crafting robust and efficient solutions that power the core functionality of applications. With a strong foundation in JavaScript and proficiency in other programming languages, I excel in architecting scalable backend systems that drive seamless user experiences. I thrive in the dynamic landscape of software development, continuously seeking out new challenges and pushing the boundaries of what's achievable in backend engineering.
 </p>
 
 <br/>
